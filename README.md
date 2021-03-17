@@ -11,7 +11,7 @@ Tools that are used:
 - JavaScript
 - Animations using JavaScript
 
-##How to Use This?
+## How to Use This?
 
 To use this App first click the start button and it will display random questions.
 
